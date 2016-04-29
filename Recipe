@@ -2,11 +2,53 @@
 <html>
 <head>
 <h1> Stuffed Peppers </h1>
-h1{color: red}
+<style>
+h1 {color: red; }
+h1{text-align: center;}
+<link href="style.css" rel="stylesheet"
+</style>
 </head>
 
 <nav>
 <h2> Ingredients </h2>
+<style>
+h2 {color: blue; }
+h2{border-bottom: solid;}
+h2{border-bottom:1px solid black;}
 
-<ol start="5" type="i">
+
+</style>
+<ul>
+
 <li> 4 large bell peppers (any color)</li>
+<li> 2 lb lean (at least 80%) ground beef</li>
+<li> 2 tablespoons chopped onion</li>
+<li> 1 cup cooked rice</li>
+<li> 1 teaspoon salt </li>
+<li> 1 clove garlic, finaly chopped</li>
+<li> 1 can (15 oz) Muir Glen tm organic tomato sauce </li>
+<li> 3/4 cup shredded mozarella cheese (3 oz) </li>
+
+<style>
+ul{list-style: none;}
+
+ul{font-weight: bold;}
+</style>
+</ul>
+
+<h3> Directions </h3>
+<style>
+h3 {color: blue;}
+h3 {border-bottom: solid;}
+h3 {border-bottom:1px solid black;}
+h3 {font-weight: bold;}
+</style>
+
+<ol>
+<ol start="1" type="I">
+<li> Cut thin slice from stem end of each bell pepper to remove top of pepper.Remove seeds and membranes; rinse peppers. If necessary, cut thin slice from bottom of each pepper so they stand up straight. In 4-quart Dutch oven, add enough water to cover peppers. Heat to boiling, add peppers. Cook about 2 minutes; drain. </li>
+<li> In 10-inch skillet, cook beef and onion over medium heat 8 to 10 minutes, stirring occasionally, until beef is brown; drain. Stir in rice, salt, garlic and 1 cup of the tomato sauce; cook until hot. </li>
+<li> Heat oven to 350 F. </li>
+<li> Stuff peppers with beef mixture. Stand peppers upright in ungreased 8-inch square glass baking dish. Pour remaining tomato sauce over peppers. </li>
+<li> Cover tightly with foil. Bake 10 minutes. Uncover and bake about 15 minutes longer or until peppers are tender. Sprinkle with cheese. </li>
+</ol>

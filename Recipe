@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1> Stuffed Peppers </h1>
+h1{color: red}
+</head>
+
+<nav>
+<h2> Ingredients </h2>
+
+<ol start="5" type="i">
+<li> 4 large bell peppers (any color)</li>
